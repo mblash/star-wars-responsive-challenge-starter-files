@@ -1,0 +1,54 @@
+header {
+  height: 85px;
+  width: 100%;
+  background-color: #f7be00;
+  position: fixed;
+  padding-bottom: 80px;
+  top: 0;
+  left: 0;
+}
+
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 300px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.image {
+padding-top: 120px;
+padding-bottom: 0px
+}
+
+.image1 {
+padding-top: 40px;
+padding-bottom: 0px
+}
+
+h1 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 30px;
+  text-indent: 10px;
+}
+
+p {
+  font-size: 15px;
+  text-indent: 10px;
+}
+
+.col-12 p { 
+margin-top: 0;
+}
